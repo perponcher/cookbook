@@ -1,6 +1,7 @@
 Ingredients:
 * avocados
-* oniona
+* onions
 
 Instructions:
 * Mix everything
+* Mash it up
